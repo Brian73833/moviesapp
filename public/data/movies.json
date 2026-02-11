@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "genre": "Ciencia Ficción",
+    "description": "Un ladrón que roba secretos dentro de sueños recibe una misión casi imposible.",
+    "year": 2010,
+    "duration": 148,
+    "posterUrl": "https://www.impawards.com/2010/posters/inception_ver3.jpg",
+    "director": "Christopher Nolan",
+    "rating": 8.8
+  },
+  {
+    "id": 2,
+    "title": "The Godfather",
+    "genre": "Drama",
+    "description": "La historia de la familia mafiosa Corleone.",
+    "year": 1972,
+    "duration": 175,
+    "posterUrl": "https://www.impawards.com/1972/posters/godfather_ver1.jpg",
+    "director": "Francis Ford Coppola",
+    "rating": 9.2
+  },
+  {
+    "id": 3,
+    "title": "Interstellar",
+    "genre": "Ciencia Ficción",
+    "description": "Exploradores viajan por un agujero de gusano para salvar a la humanidad.",
+    "year": 2014,
+    "duration": 169,
+    "posterUrl": "https://www.impawards.com/2014/posters/interstellar_ver2.jpg",
+    "director": "Christopher Nolan",
+    "rating": 8.6
+  },
+  {
+    "id": 4,
+    "title": "Parasite",
+    "genre": "Thriller",
+    "description": "Una familia de bajos recursos se infiltra en la vida de una familia rica.",
+    "year": 2019,
+    "duration": 132,
+    "posterUrl": "https://www.impawards.com/2019/posters/parasite_ver1.jpg",
+    "director": "Bong Joon-ho",
+    "rating": 8.5
+  },
+  {
+    "id": 5,
+    "title": "Toy Story",
+    "genre": "Animación",
+    "description": "Los juguetes cobran vida cuando no hay humanos presentes.",
+    "year": 1995,
+    "duration": 81,
+    "posterUrl": "https://www.impawards.com/1995/posters/toy_story_ver9.jpg",
+    "director": "John Lasseter",
+    "rating": 8.3
+  }
+]
