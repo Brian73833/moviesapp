@@ -19,7 +19,7 @@ export default function Movies() {
     );
 
   return (
-    <div className="min-h screen bg-[#070B16]">
+    <div className="min-h-screen bg-[#070B16]">
       <MovieList movies={movies} />
     </div>
   );
